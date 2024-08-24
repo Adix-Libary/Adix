@@ -1,2 +1,2 @@
-<img src= "https://upload.wikimedia.org/wikipedia/commons/e/e5/Adix-TSLibary.png" width="100"> 
-# Adix - JavaScript UI library 
+<img src= "https://upload.wikimedia.org/wikipedia/commons/1/14/Adix_full_2.png" width="100"> 
+# 
