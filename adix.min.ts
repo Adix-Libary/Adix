@@ -23,7 +23,7 @@ Adix, a UI library for Javascript, writen in typescript.
         }
     
     }
-    var Wigets = {  //UI features like modal and tabs
+    var Widgets = {  //UI features like modal and tabs
       
      
     
